@@ -3506,9 +3506,9 @@
     "restore": {
       "projectUniqueName": "MP3",
       "projectName": "MP3",
-      "projectPath": "C:\\Users\\gourav\\Documents\\UiPath\\MP3\\.local",
+      "projectPath": "C:\\Users\\gourav\\Documents\\UiPath\\Repotest\\MP3\\.local",
       "packagesPath": "C:\\Users\\gourav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gourav\\Documents\\UiPath\\MP3\\.local"
+      "outputPath": "C:\\Users\\gourav\\Documents\\UiPath\\Repotest\\MP3\\.local"
     },
     "frameworks": {
       "net461": {
